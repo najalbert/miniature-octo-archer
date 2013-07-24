@@ -1,0 +1,2 @@
+class StockTicker(object):
+    pass
